@@ -20,6 +20,15 @@
   <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-F2C94C"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/dzotyara/backseat/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/dzotyara/backseat?style=for-the-badge&color=fbbf24&label=%E2%AD%90%20Stars"></a>
+  <a href="https://boosty.to/dzotyara"><img alt="Поддержать на Boosty" src="https://img.shields.io/badge/Boosty-support-f15f2c?style=for-the-badge&logo=boosty&logoColor=white"></a>
+</p>
+
+<p align="center">
+  ⭐ <b>Если Ботяра прижился в вашем чате, <a href="https://github.com/dzotyara/backseat/stargazers">поставьте звезду</a>.</b> Так его проще найти другим.
+</p>
+
 ---
 
 **Ботяра знает весь контекст беседы.** Каждое сообщение чата ложится в базу, а старые разговоры
@@ -253,6 +262,12 @@ prompts/           характеры ботов по умолчанию
   служебные правила, картинки.
 - 💬 Короткие ответы, как у человека в чате.
 - 💸 Дешевле: предпроверка «есть ли повод?», дешёвые хостинги, режим «только свежая переписка».
+
+## ⭐ Поддержать
+
+- ⭐ **Поставьте звезду.** Это самый быстрый способ помочь другим найти проект.
+- ☕ **[Поддержите на Boosty](https://boosty.to/dzotyara).** Разовый донат или подписка дают мне больше времени на Ботяру и новые проекты.
+- 🐞 **Откройте issue** с багом или идеей.
 
 ## 👤 Автор
 
