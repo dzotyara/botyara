@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="docs/assets/banner.png" alt="Botyara" width="680">
+  <img src="docs/assets/banner.gif" alt="Botyara" width="680">
 </p>
 
 <h3 align="center">Бот-участник для групповых чатов в Telegram и Discord, который помнит всю беседу</h3>
 
 <p align="center">
   Шутит в тему, отвечает, когда зовут, подводит итоги недели — и помнит, кто что обещал месяц назад.
+</p>
+
+<p align="center">
+  <a href="docs/assets/avatar.png">Аватар бота</a> · <a href="docs/assets/telegram-description.mp4">Видео для описания в Telegram</a>
 </p>
 
 <p align="center">
