@@ -3,7 +3,7 @@
 «Botyara» v1: group-chat bots for Telegram and Discord with long-term memory — chat members, not
 assistants. One platform-independent core, two chat adapters and a local web settings panel.
 Python 3.14, aiogram 3.31, discord.py 2.7, FastAPI + Jinja2, SQLite (aiosqlite), OpenRouter over httpx,
-pydantic-settings. User-facing docs are in README.md (Russian).
+pydantic-settings. User-facing docs are in README.md (English).
 
 ## Commands
 
