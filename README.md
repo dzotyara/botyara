@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/banner.png" alt="Botyara — комментирую с задней парты" width="680">
+  <img src="docs/assets/banner.png" alt="Botyara" width="680">
 </p>
 
 <h3 align="center">Бот-участник для групповых чатов в Telegram и Discord, который помнит всю беседу</h3>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Version 2.2" src="https://img.shields.io/badge/version-2.2-E8663D">
+  <img alt="Version 2.2" src="https://img.shields.io/badge/version-2.2-8B5CF6?labelColor=0F101A">
   <img alt="Python 3.14" src="https://img.shields.io/badge/python-3.14-3776AB?logo=python&logoColor=white">
   <img alt="aiogram 3.31" src="https://img.shields.io/badge/aiogram-3.31-26A5E4?logo=telegram&logoColor=white">
   <img alt="discord.py 2.7" src="https://img.shields.io/badge/discord.py-2.7-5865F2?logo=discord&logoColor=white">
